@@ -1,4 +1,4 @@
-.envrc
-flake.lock
-flake.nix
-.direnv/
+.*
+*.sh
+flake.*
+output/
