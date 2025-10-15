@@ -33,6 +33,11 @@ jobs:
         uses: actions/checkout@v4
       - name: Copy files respecting .gitignore
         run: rsync -avh --exclude-from='.packwizignore' ./ ./output/
+      - name: Create prismlauncher pack
+        run: |
+          pushd prismlauncher/
+          zip -r ../output/LightlyModdedForge.zip .
+          popd
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
