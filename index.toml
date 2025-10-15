@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "354e66b34e726f2f900ffbbd6cf52cafeb2fe31ed934bebae229a10a0359cbd1"
+hash = "bb3d9e5640c61e9d63cba49980846154de2509761607bfd7fbafd32ba502f910"
 metafile = true
 
 [[files]]
@@ -117,12 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "5ac6fe9a921d8fa00456ec2e18da02ede5c0da424c5c5b57da1206feeac40ff6"
+hash = "724f38446c3830230388cec99fed286ff1e8580f0a82c1466c7d59bde4450c71"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "4c5ec7476521092a74d8ae1b894e44903a3d7834898674294f0ce4ddb040b251"
+hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
 metafile = true
 
 [[files]]
@@ -138,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "5b1ccd88254480f6b73358491b4ef1eff859cffdd6784dea4d1a89c8fdf74601"
 metafile = true
 
 [[files]]
@@ -277,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-uncrafting-table.pw.toml"
-hash = "434f8ecb279f9ac806f3beadac934e26d16d69988f98ce427294edeb2b8dacf9"
+hash = "32f5973b70afb825ab54074bf6525f73b8f9acce3c3d1f40730d47ba886dcd6c"
 metafile = true
 
 [[files]]

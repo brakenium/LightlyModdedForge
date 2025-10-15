@@ -1,13 +1,13 @@
 name = "Simple Uncrafting Table"
-filename = "UncraftingTable-neoforge-1.5.3-fix.1.jar"
+filename = "UncraftingTable-forge-1.5.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/d0f1a75r/versions/bKmI6FbB/UncraftingTable-neoforge-1.5.3-fix.1.jar"
+url = "https://cdn.modrinth.com/data/d0f1a75r/versions/pbRRsj5B/UncraftingTable-forge-1.5.3.jar"
 hash-format = "sha512"
-hash = "1f9e2a2926368b56ef0a504143c795c915ea0157893ff171410e397445643e103e187e5a73afda03f2169b6552f2ef1dc5848fef52321ce1748bfd41e0f1d092"
+hash = "d8bc91e52ab8babe91a472784868b72b3e637806a6c77dfc972207bfb612f127454d7014822fae148795dfbefb5a1b8a7ca1e75ecf4b098e426dfcaad8a089a9"
 
 [update]
 [update.modrinth]
 mod-id = "d0f1a75r"
-version = "bKmI6FbB"
+version = "pbRRsj5B"
