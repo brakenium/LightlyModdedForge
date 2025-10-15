@@ -1,5 +1,16 @@
+.direnv/
+
+*.jar
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+output/
+
 .*
 *.sh
-*.jar
 flake.*
-output/
+prismlauncher/
