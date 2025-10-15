@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "8f2c476f0d8ab97f80e9068b5cd85b6e0261013096feba1e797c02f0d97f2657"
+hash = "1e04444d1b4e35dcdc2c8437f9869c3a90bfcb11954072e641ed5874741eb994"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "9a5e498a9c596fb0bfbab74173aa854257466e8c538d15c1966ce268b3267575"
+hash = "071ae7387afbd840ec0142a0a07c2edf31d28a0a43334ce1e0786eca4e9d715b"
 metafile = true
 
 [[files]]
@@ -237,12 +237,12 @@ metafile = true
 
 [[files]]
 file = "mods/odyssey-allies.pw.toml"
-hash = "80eba8b043949a366b74a7224ce6f83f837339cf78728d02de268139e4860a71"
+hash = "6c718c6602f0cca321cd615b05e25e9253dc55553e5e6a81ac2ab7227a46c5f1"
 metafile = true
 
 [[files]]
 file = "mods/odyssey-claims.pw.toml"
-hash = "42fa64d62e256c8819afa512eba031ba149f372d8f5e40d6ccff11343635aa65"
+hash = "ddadb45a3bef8d0dee0cb27d8d7a818b58376963488fdef17990da32985cbfdb"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium.pw.toml"
-hash = "ae4d739bbdb025651a884093de72addac0865525b39e603fb575031a59987763"
+hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
