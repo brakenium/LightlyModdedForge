@@ -1,5 +1,7 @@
 .direnv/
 
+*.jar
+
 # Exclude exported CurseForge zip files
 *.zip
 
