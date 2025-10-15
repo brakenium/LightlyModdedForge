@@ -1,0 +1,13 @@
+name = "Speedometer"
+filename = "speedometer-5.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V7fjX9gd/versions/clZR3yTQ/speedometer-5.2.jar"
+hash-format = "sha512"
+hash = "4375653c983308643d0a7f1784e77cc919d8f2463826c9717895397d2b97a61a8d8fe09a5c979b30b56201026a62b31146007c4a452ef5f53a163b1ceaeac0c9"
+
+[update]
+[update.modrinth]
+mod-id = "V7fjX9gd"
+version = "clZR3yTQ"

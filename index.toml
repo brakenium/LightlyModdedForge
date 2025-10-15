@@ -301,6 +301,11 @@ hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
 metafile = true
 
 [[files]]
+file = "mods/speedometer.pw.toml"
+hash = "e122de2d6723309d12d630107881d69601efe503bffd89507b2550fc3ab59e43"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
 metafile = true
