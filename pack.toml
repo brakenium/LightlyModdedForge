@@ -1,6 +1,6 @@
 name = "Lightly Modded Forge"
 author = "brakenium"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "3e28aef26101acb39fff75aba3b80cf62924a7afda3357264a5b4a43f35c4452"
 
 [versions]
+forge = "47.4.10"
 minecraft = "1.20.1"
-neoforge = "47.1.106"
