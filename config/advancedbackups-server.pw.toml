@@ -1,5 +1,6 @@
 name = "AdvancedBackups-Server"
 filename = "AdvancedBackups.properties"
+side = "server"
 
 [download]
 url = "https://brakenium.github.io/LightlyModdedForge/config/server/AdvancedBackups.properties"

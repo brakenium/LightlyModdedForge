@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/advancedbackups-client.pw.toml"
-hash = "1c70f41875c880fb44b3fb302956e68ce9b6eb08dba7e3e047b98ad311ec5825"
+hash = "8a567537ecee7a1d17d3eda7e16c95f666e109d8c8b1c536185749cea844ca40"
 metafile = true
 
 [[files]]
 file = "config/advancedbackups-server.pw.toml"
-hash = "31675b1a796d674b2be33e45f00e2c7b2a983f805fe948f4d66c32dc4a7d1e68"
+hash = "25511bf9fac229bb24383fed5b30830073f49d172d49707a078bb40014de52fa"
 metafile = true
 
 [[files]]
