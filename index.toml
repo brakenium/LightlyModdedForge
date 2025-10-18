@@ -206,6 +206,11 @@ hash = "45c55bdbbf2240dfa30cedb5cd437f5716ccf09a707dcdffbe7f39af3e19ff7f"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "538b53dd942285fdac32839b7567835e83d576dc0691fe8bbab6f41b0f94fde3"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "ff3c572cc8a57df72f4a9ee7aa06388bec703a7f9bf08068a62fe3221efe3e80"
 metafile = true
@@ -283,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/simple-uncrafting-table.pw.toml"
+hash = "32f5973b70afb825ab54074bf6525f73b8f9acce3c3d1f40730d47ba886dcd6c"
 metafile = true
 
 [[files]]
