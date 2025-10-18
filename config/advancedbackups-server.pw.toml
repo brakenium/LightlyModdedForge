@@ -1,0 +1,7 @@
+name = "AdvancedBackups-Server"
+filename = "AdvancedBackups.properties"
+
+[download]
+url = "https://brakenium.github.io/LightlyModdedForge/config/server/AdvancedBackups.properties"
+hash-format = "sha256"
+hash = "1acfca35b5e8ff0545dc8f8dc7676f91c96ade0ecc7afa355db6a4a373b5911d"

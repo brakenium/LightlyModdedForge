@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/advancedbackups-client.pw.toml"
+hash = "1c70f41875c880fb44b3fb302956e68ce9b6eb08dba7e3e047b98ad311ec5825"
+metafile = true
+
+[[files]]
+file = "config/advancedbackups-server.pw.toml"
+hash = "31675b1a796d674b2be33e45f00e2c7b2a983f805fe948f4d66c32dc4a7d1e68"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b2ed80a95132518a9a6d52a487a7ddcc5b73904a335af5274d912c78fda3a649"
 metafile = true
