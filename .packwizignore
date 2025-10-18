@@ -1,6 +1,7 @@
 .direnv/
 
 *.jar
+!prismlauncher/minecraft/packwiz-installer-bootstrap.jar
 
 # Exclude exported CurseForge zip files
 *.zip
