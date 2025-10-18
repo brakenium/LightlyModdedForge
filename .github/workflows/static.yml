@@ -38,6 +38,10 @@ jobs:
           pushd prismlauncher/
           zip -r ../output/LightlyModdedForge.zip .
           popd
+      - name: Add server and client configs from config/{client,server}/
+        run: |
+          cp -r config/server/* output/config/server/
+          cp -r config/client/* output/config/client/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
