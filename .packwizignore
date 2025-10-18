@@ -14,3 +14,5 @@ output/
 *.sh
 flake.*
 prismlauncher/
+config/client/
+config/server/
