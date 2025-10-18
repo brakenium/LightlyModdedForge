@@ -40,8 +40,8 @@ jobs:
           popd
       - name: Add server and client configs from config/{client,server}/
         run: |
-          mkdir -p output/server/
-          mkdir -p output/client/
+          mkdir -p output/config/server/
+          mkdir -p output/config/client/
           cp -r config/server/* output/config/server/
           cp -r config/client/* output/config/client/
       - name: Setup Pages
