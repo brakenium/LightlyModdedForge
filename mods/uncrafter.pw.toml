@@ -1,0 +1,13 @@
+name = "Uncrafter"
+filename = "uncrafter-forge-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q6iSQrx6/versions/685e5ESu/uncrafter-forge-1.20.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "2b45a4bd63386ed1704611ffb9e47d0399c0c0c147dc5c501d4c3636052a9f37d458c59986347a06d9e266964d9dfd486340983475a93b6c22e1c76a71a21030"
+
+[update]
+[update.modrinth]
+mod-id = "Q6iSQrx6"
+version = "685e5ESu"

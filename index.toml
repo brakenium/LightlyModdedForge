@@ -15,6 +15,10 @@ hash = "25511bf9fac229bb24383fed5b30830073f49d172d49707a078bb40014de52fa"
 metafile = true
 
 [[files]]
+file = "config/uncrafter.jsonc"
+hash = "8916f1e9f36cfe6f6d60dc2348e7787fae0f2f05aec5912a92127978c5bb8ccb"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b2ed80a95132518a9a6d52a487a7ddcc5b73904a335af5274d912c78fda3a649"
 metafile = true
@@ -280,6 +284,11 @@ hash = "e361630ef4d787c2eb1aa38c35935e0a7db10a6cb9dcdb5edb2956e4fa3047ac"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
@@ -367,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/tools-complement.pw.toml"
 hash = "b1f5cbdf71d181ada156dcaa33cd8b7c5cf8271812c9f7bbb6d6791eb66903a5"
+metafile = true
+
+[[files]]
+file = "mods/uncrafter.pw.toml"
+hash = "f463a28d818796d2e6760a4c686022ff7c4fc4486db48b9c0745f6ad354ba8d2"
 metafile = true
 
 [[files]]
