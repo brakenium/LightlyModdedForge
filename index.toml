@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "5ce73cea812cb66372354398608d37b8fefd45db242e2aced03fbde5598df311"
+hash = "b29b617692233d60179a6d7376dade85063af0e73a3cc53c623bf570fb768d82"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "e5c862974f95f220780d572ca5fd08dddadd1024b44bd6033e0d128c4cce352c"
+hash = "f517f757ca25c9ff020d7b290b0724a13fd9ddd9e6c2a2fd1354b312e768223f"
 metafile = true
 
 [[files]]
