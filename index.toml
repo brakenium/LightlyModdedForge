@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "3e34ae4a38fa9fcf7a1315c4e1a330ed1ade12bf317969676f59ed3b6fefede7"
-
-[[files]]
 file = "config/advancedbackups-client.pw.toml"
 hash = "8a567537ecee7a1d17d3eda7e16c95f666e109d8c8b1c536185749cea844ca40"
 metafile = true

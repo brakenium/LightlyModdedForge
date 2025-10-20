@@ -17,3 +17,4 @@ flake.*
 prismlauncher/
 config/client/
 config/server/
+README.md
