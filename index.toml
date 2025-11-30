@@ -265,11 +265,6 @@ hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
-file = "mods/redstone-arsenal.pw.toml"
-hash = "e361630ef4d787c2eb1aa38c35935e0a7db10a6cb9dcdb5edb2956e4fa3047ac"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
 metafile = true
