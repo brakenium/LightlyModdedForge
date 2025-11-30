@@ -1,13 +1,13 @@
 name = "Searchables"
-filename = "Searchables-forge-1.20.1-1.0.3.jar"
+filename = "Searchables-neoforge-1.20.4-1.0.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/PM9yAW1G/Searchables-forge-1.20.1-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/jvJd9WhS/Searchables-neoforge-1.20.4-1.0.6.jar"
 hash-format = "sha512"
-hash = "185617d6d446f3d4ef6c7d5c6ee4e2fb731a89f7495157313b21292ec6b8e3dbcc10c0379ab49ecb2d0c64d0a78df74750d7f7336d5e6c43516a7c92f278c0a2"
+hash = "c3580b5380d5aac233a8c574d1d2ef10b014e18c2a430fa3b7ba06b2a606689c06e89e376a4eef062eeb63806f1217738ab1da76672b8c215b20d3953a5a28d1"
 
 [update]
 [update.modrinth]
 mod-id = "fuuu3xnx"
-version = "PM9yAW1G"
+version = "jvJd9WhS"

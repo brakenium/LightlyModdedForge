@@ -1,13 +1,13 @@
 name = "Odyssey Allies"
-filename = "argonauts-forge-1.20.1-1.0.10.jar"
+filename = "argonauts-neoforge-1.20.4-1.2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bb2EpKpx/versions/r0eKAc5z/argonauts-forge-1.20.1-1.0.10.jar"
+url = "https://cdn.modrinth.com/data/bb2EpKpx/versions/EBD0qDzw/argonauts-neoforge-1.20.4-1.2.4.jar"
 hash-format = "sha512"
-hash = "7048563f30eabe16574821beb23a4b451b30c06728a755ca9e94ca8c14a599b6de666d47aed40de9e6e7893ee359f4d4de071749a5c2a60f96978776a14f4931"
+hash = "5078d300a0cc7f977db3536fc88eb1f8c7f3779695f5c6c0c9384532ebbfe519cc58fcc5489273b69f793e6e74732dd066652c112336c89b11caea6d666e37c6"
 
 [update]
 [update.modrinth]
 mod-id = "bb2EpKpx"
-version = "r0eKAc5z"
+version = "EBD0qDzw"

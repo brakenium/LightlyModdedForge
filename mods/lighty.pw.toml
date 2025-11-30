@@ -1,13 +1,13 @@
 name = "Lighty"
-filename = "lighty-forge-2.1.3+1.20.1.jar"
+filename = "lighty-neoforge-2.3.0+1.20.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yjvKidNM/versions/9xbi0x5Q/lighty-forge-2.1.3%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/yjvKidNM/versions/bEAnLk42/lighty-neoforge-2.3.0%2B1.20.3.jar"
 hash-format = "sha512"
-hash = "1525d124f075b724942531c394e3506b661daf37f852b547bb3ceaf91b7fd461a96ce8cd43bb85d50b3a36350211af4c2cfc344d9233aeb636faf3933dbb3188"
+hash = "a381f04caecc18b06db5302e02c0f64fe3d6ba1a5c0a282a5532c71be03b8f921baa8c49440d0cdb513e467ad1c77d1e22df98447181c28715a1f7e6dc1fe639"
 
 [update]
 [update.modrinth]
 mod-id = "yjvKidNM"
-version = "9xbi0x5Q"
+version = "bEAnLk42"

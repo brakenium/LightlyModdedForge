@@ -1,13 +1,13 @@
 name = "Odyssey Claims"
-filename = "cadmus-forge-1.20.1-1.0.8.jar"
+filename = "cadmus-neoforge-1.20.4-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fEWKxVzh/versions/vtGe3auv/cadmus-forge-1.20.1-1.0.8.jar"
+url = "https://cdn.modrinth.com/data/fEWKxVzh/versions/JAcTHat9/cadmus-neoforge-1.20.4-1.2.2.jar"
 hash-format = "sha512"
-hash = "67121b4ba31e8bb753620bcda4f155bd8b2c3416a8d0371afecb06287cc5c879c9030354cb823f59d255ff2b563e6636600d1032c185f7cbb1588523fdee8a06"
+hash = "2483e4f37b0af0fa838bbde9127b7278e86e173db543e2d0094162987c41fb004394722f423d53ff98ac99b56e5389209adef1c5274e2e6622319b09a92b0726"
 
 [update]
 [update.modrinth]
 mod-id = "fEWKxVzh"
-version = "vtGe3auv"
+version = "JAcTHat9"

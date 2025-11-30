@@ -1,13 +1,13 @@
 name = "Advanced Backups"
-filename = "AdvancedBackups-forge-1.20-3.7.1.jar"
+filename = "AdvancedBackups-neoforge-1.20.4-3.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/aJSTD0EJ/AdvancedBackups-forge-1.20-3.7.1.jar"
+url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/EtpkhEsm/AdvancedBackups-neoforge-1.20.4-3.7.1.jar"
 hash-format = "sha512"
-hash = "9011580f3b686d325ba15c1755b632b2accae59e38c11aebf8543098641dfae1d32a9554ca2ca4e54907618d5c1b9ca3cabbdb1bd3e84c8e3d175759a1ab4510"
+hash = "6e70d4cd38667691419bae06c5d4efdf07b96816aa15acb97b13e16d94f49047019c0382defb3c38411c07b28f82e54813d2cfd311e84b0c18ac3b2d0cd517d2"
 
 [update]
 [update.modrinth]
 mod-id = "Jrmoreqs"
-version = "aJSTD0EJ"
+version = "EtpkhEsm"

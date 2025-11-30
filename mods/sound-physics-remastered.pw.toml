@@ -1,13 +1,13 @@
 name = "Sound Physics Remastered"
-filename = "sound-physics-remastered-forge-1.20.1-1.5.1.jar"
+filename = "sound-physics-remastered-neoforge-1.20.4-1.4.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/x0sJ9PeR/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
+url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/eQg3x7U0/sound-physics-remastered-neoforge-1.20.4-1.4.5.jar"
 hash-format = "sha512"
-hash = "5509a7b51ec1d57aae2af0a0200bda474539fcfe28303f3ff0158ba95b8e7a88ae023d8a9bd97d4626a6a8ce809506e19cdcb05b76e8be5bf8a0450c5d6a46b1"
+hash = "6686f8f5dae1885d41c0d2f591c982a4abfdfed1a4fe6a6b2ffd9a354ec1feeb0b5c02522d1425b650649ec390743fce6df3524557838255957512654b08c939"
 
 [update]
 [update.modrinth]
 mod-id = "qyVF9oeo"
-version = "x0sJ9PeR"
+version = "eQg3x7U0"

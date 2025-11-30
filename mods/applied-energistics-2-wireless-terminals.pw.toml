@@ -1,13 +1,13 @@
 name = "Applied Energistics 2 Wireless Terminals"
-filename = "ae2wtlib-15.3.0-forge.jar"
+filename = "ae2wtlib-17.12.0-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pNabrMMw/versions/Gy5UgOq4/ae2wtlib-15.3.0-forge.jar"
+url = "https://cdn.modrinth.com/data/pNabrMMw/versions/bGX9IPwl/ae2wtlib-17.12.0-beta.jar"
 hash-format = "sha512"
-hash = "9e26b25e180f4f2368415ef8c96fd59df7a8911516a4601ecaa37177db3e1042c92d7ec8a2c8e760f99b46498689f72164cdf69b6aeab6f20765b77d4ce0507b"
+hash = "66268025c36b3ac82e60d42a78b2a85c4c61287bea91dc5bbb319da38fbac4e19bd0488acca99d7265689b092d38748115e07a9061873fe36d4d73b3244725c9"
 
 [update]
 [update.modrinth]
 mod-id = "pNabrMMw"
-version = "Gy5UgOq4"
+version = "bGX9IPwl"
