@@ -95,11 +95,6 @@ hash = "fb4e28742d952121ba3f7ad813ca128a0121d969c5d04832eb59567cdb2ff80d"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "e70e53bf39cafbe808ab16620f4e58398efd9177fa9667d60d8e9cc12703ed6d"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "97fb8d2960cbe5be3edef398613f43a8d922575633c4b8ac88a4a0825e5a1ab8"
 metafile = true
