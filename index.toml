@@ -75,11 +75,6 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
-file = "mods/cofh-core.pw.toml"
-hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
-metafile = true
-
-[[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
@@ -322,46 +317,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
-metafile = true
-
-[[files]]
-file = "mods/thermal-cultivation.pw.toml"
-hash = "6e3b20b2d1af0d1681580879ab0af9d74854d095b273fb3f01d3746118134094"
-metafile = true
-
-[[files]]
-file = "mods/thermal-dynamics.pw.toml"
-hash = "b09197b44ec72d27d10aae73a731314993a7e5b5137c247256c79b1a4128048b"
-metafile = true
-
-[[files]]
-file = "mods/thermal-expansion.pw.toml"
-hash = "21ef66049ba994e620e34e2fab8e99ca27ceef5882f76dbd6c31afed66de89c4"
-metafile = true
-
-[[files]]
-file = "mods/thermal-foundation.pw.toml"
-hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
-metafile = true
-
-[[files]]
-file = "mods/thermal-innovation.pw.toml"
-hash = "9d3caee351b004fa5fece4e3b434b55181e453f51e49f46b67a71b063928a8e2"
-metafile = true
-
-[[files]]
-file = "mods/thermal-integration.pw.toml"
-hash = "eac18d5d726f61bce8471d9113db5ec642db05b9bb0836a06b491ef97245ade2"
-metafile = true
-
-[[files]]
-file = "mods/thermal-locomotion.pw.toml"
-hash = "5152f3cfbdac5208b0a96852aaa59600c7d0ef577975692e28ad2ca8ca4126f3"
-metafile = true
-
-[[files]]
-file = "mods/tools-complement.pw.toml"
-hash = "b1f5cbdf71d181ada156dcaa33cd8b7c5cf8271812c9f7bbb6d6791eb66903a5"
 metafile = true
 
 [[files]]

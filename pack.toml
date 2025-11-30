@@ -1,12 +1,12 @@
 name = "Lightly Modded Forge"
 author = "brakenium"
-version = "2.0.0"
+version = "2.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "53268fc177f4114e155429c76c5dd8fc947731419bba58e0a2963b18a052d38e"
+hash = "42a52a836c97921fc77036b7a1b8a28141e22844afd38f9270cd53d63f177952"
 
 [versions]
 forge = "47.4.10"
