@@ -80,21 +80,6 @@ hash = "e3753910e6cd57faaa50cb0670b8f5e38cbe129d382ef5c3df449fb88a972cca"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "2a033edcfafd7686d5adc637a171c1ab127b75dc9ab94cee11a3e24ef9428637"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "10166cb3e88f680ddb2c96d5df1f2e6baac640dc30822cb37a313ee81cd9bdc5"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "46f46f8c3c47095e438cd03e7e463a4be62bd169cbcef530dadf66dc3b523f15"
 metafile = true
@@ -135,18 +120,8 @@ hash = "dbb78ad572330a111a703548cea3df9b99247711476c33e9acab66c4a32af19f"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "83ac3e7f70eb567845286596a8baad96b73ef3c2ee1fa378375df7a13aad7c11"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "6ab8663a916d6b2c8704c5597f57980e5626bd3cbc93420cd2d5dbce44f1a690"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "2356fdd1f2f6cf209194548a4e708031e9ad311c595dd1b6e1e0afe9cd7e990d"
 metafile = true
 
 [[files]]
@@ -235,11 +210,6 @@ hash = "36203fc0dc6e05fc04ccbdc5cc180f0881e6926eda82d4836a9b67623d2d7f9b"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
-metafile = true
-
-[[files]]
 file = "mods/odyssey-allies.pw.toml"
 hash = "96f71d94809e42cc8b7ff3b2e4f6e38284ed2c89465758548bd54f726d6e1381"
 metafile = true
@@ -265,11 +235,6 @@ hash = "84be1d17c5aaa19f50b157fc11a18ea0122d0868342484cdafcf2b48e89602dc"
 metafile = true
 
 [[files]]
-file = "mods/radium.pw.toml"
-hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "a82c30811cec8872f8b5fd074c81d77fe04388321badfb8bdd9a60235c642b8c"
 metafile = true
@@ -290,16 +255,6 @@ hash = "92efbf89bde954bfec03b7c0ce3726a2c6006b63f66f4759d64494e4f12b8601"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "ef8139cbad294efe36e3c82c883098df233faadc3003475b1f92a846a91086a4"
 metafile = true
@@ -317,11 +272,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
-metafile = true
-
-[[files]]
-file = "mods/uncrafter.pw.toml"
-hash = "f463a28d818796d2e6760a4c686022ff7c4fc4486db48b9c0745f6ad354ba8d2"
 metafile = true
 
 [[files]]
